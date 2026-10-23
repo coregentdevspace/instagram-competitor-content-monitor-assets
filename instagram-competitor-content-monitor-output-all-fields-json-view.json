@@ -1,0 +1,2681 @@
+[{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "nike",
+    "userId": "13460080",
+    "profileUrl": "https://www.instagram.com/nike/",
+    "followersCount": 290911083,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "Nike",
+    "isVerified": true,
+    "followingCount": 266,
+    "postsCount": 1674,
+    "category": null
+  },
+  "content": {
+    "postId": "4013866847459165743",
+    "shortcode": "De0HqGihUYv",
+    "postUrl": "https://www.instagram.com/reel/De0HqGihUYv/",
+    "contentType": "REEL",
+    "caption": "Nothing is given in the City of Brotherly Love. A new chapter begins in Philly with a simple declaration.",
+    "publishedAt": "2026-10-22T23:04:54.000Z",
+    "isReel": true,
+    "isCarousel": false,
+    "isVideo": true,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "nike",
+    "coauthors": [
+      "nikebasketball"
+    ],
+    "visibleOnProfiles": [
+      "nike",
+      "nikebasketball"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/861258776_18676707535020081_6543754682900432330_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=1&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAxMzg2Njg0NzQ1OTE2NTc0MzE4Njc2NzA3NTM4MDIwMDgx.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=wFUcfGwKc7QQ7kNvwEnMB4l&_nc_oc=Adr_lw3v3PaEq764kvKrbk_TwVZUVZ9vwLviIla5kEsPQ9M6ntHrlBp6P88CXtCUir4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQO-CD3tIOA_uAonXqE924gVcUUBnHSqm3KZkB4VqJLvzQ&oe=6AE122B2",
+    "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/861258776_18676707535020081_6543754682900432330_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=1&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAxMzg2Njg0NzQ1OTE2NTc0MzE4Njc2NzA3NTM4MDIwMDgx.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=wFUcfGwKc7QQ7kNvwEnMB4l&_nc_oc=Adr_lw3v3PaEq764kvKrbk_TwVZUVZ9vwLviIla5kEsPQ9M6ntHrlBp6P88CXtCUir4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQO-CD3tIOA_uAonXqE924gVcUUBnHSqm3KZkB4VqJLvzQ&oe=6AE122B2",
+    "videoUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNzki2sv0XMF9ZGs0YilGGfBmZoxVe5VWWgNc8luG7Tcmde-adHfFhMz_y0p5HABrEbBj1pITPEB-0HZuW1BGZ3L1G4CsP9Yv7O7DA.mp4?_nc_cat=104&_nc_oc=AdpOyKJgMCn-1pmi05R8pBTdRM2F1DMMGyw0KBIxaOOiDHbD73myNjjdHCQvVvAuEy8&_nc_sid=5e9851&_nc_ht=instagram.fsvq6-1.fna.fbcdn.net&_nc_ohc=_jYwEsHx5gcQ7kNvwGnfTxw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU1NjkyODQxMTQ4NjkyNCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4716a0ac517110f4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMEUzNTg0NzhBMTc0OUZBOTcwMTVBQzE2RkY4MTdFMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IzNkJEOEIwRUIyQTRDNUU5OTA4QTUxNkVBQjIxQTdBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYq_aa6eCKCRUCKAJDMywXQFAJaHKwIMUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPs_EPEkbVsaq2Z1bhOXUf8Je337crnUY_o_4xstDJuqg&oe=6ADD4519",
+    "videoDurationSeconds": 64.147,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 88288,
+    "likesHidden": false,
+    "commentsCount": 2665,
+    "playsCount": 1738850,
+    "viewsCount": null,
+    "sharesCount": 16718,
+    "engagement": 90953,
+    "engagementRate": 0.000313,
+    "engagementWithPlays": 0.052306
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 1.19,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [
+      "HIGH_COMMENT_RATE",
+      "FAST_EARLY_GROWTH"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 105,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "nike",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "nike",
+    "userId": "13460080",
+    "profileUrl": "https://www.instagram.com/nike/",
+    "followersCount": 290911083,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "Nike",
+    "isVerified": true,
+    "followingCount": 266,
+    "postsCount": 1674,
+    "category": null
+  },
+  "content": {
+    "postId": "4009607813604884681",
+    "shortcode": "Dek_RAKjMDJ",
+    "postUrl": "https://www.instagram.com/p/Dek_RAKjMDJ/",
+    "contentType": "CAROUSEL",
+    "caption": "Since 2004, the Doernbecher Freestyle initiative has worked with hundreds of kids to bring their stories to life through their own signature Nike shoes that will benefit their community.\n\nFor Year 22, six kids from the OHSU Doernbecher Children’s Hospital collaborated with Nike employee volunteers to create one-of-a-kind sneakers that are sold to benefit other kids just like them.\n\nOwen’s passion for dirt biking shows up in the mud-splatter pattern that extends from the toe cap on his Air Max 1/97.\n\nAurora reimagined her Structure Plus as her own dream hotel in Japan. She chose a soft, faux fur on the collar representing carpets and a room key charm bracelet.\n\nRoyce competes in team bull roping, just like his parents. This family tradition is reflected in the braided laces; his favorite belt has been recreated on the ankle strap of his AF1 Mid.\n\nCharlye’s ACG Rufus reflects her outdoorsy spirit and has a textured green swoosh that reminds her of moss. The UV-activated upper reveals a new color and hidden graphics.\n\nKamoryn’s GT Future has a color-fading pink and purple upper that he can see with his specific color-blindness. The goldfish details throughout nod to Kamoryn being under anesthesia post-surgery and seeing the animal swimming through the walls.\n\nAvery’s Air Jordan 11 Low IE has a midsole full of characters Avery drew herself, representing all the cute aliens she designed, with a main character plushie she named “Greg.”",
+    "publishedAt": "2026-10-17T02:02:00.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": false,
+    "collabOwner": null,
+    "coauthors": [],
+    "visibleOnProfiles": [
+      "nike"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/851718624_18674710285020081_7359722250186308895_n.jpg?stp=dst-jpg_e35_s480x480_sh2.08_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzIzNzA3NDk5NzI1Mw%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=yfnITI4BHAEQ7kNvwGW6-VI&_nc_oc=AdpOBuakuq-mn0lVkrHX8opxjixZMAAnMliSev4Vk4UNKiQGJl8O1eJGWZuM6t_nPfg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQO8AEcDx6-u8_P_hug51uzxrUMkkzx9Qd_Zmjy76BxfRw&oe=6AE1296E",
+    "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/851718624_18674710285020081_7359722250186308895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzIzNzA3NDk5NzI1Mw%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=yfnITI4BHAEQ7kNvwGW6-VI&_nc_oc=AdpOBuakuq-mn0lVkrHX8opxjixZMAAnMliSev4Vk4UNKiQGJl8O1eJGWZuM6t_nPfg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQN-ac2lWQWHKadbSrmgNtjWnw7afpMTTHHta6s0LiehBA&oe=6AE1296E",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4009607237074997253",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/851718624_18674710285020081_7359722250186308895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzIzNzA3NDk5NzI1Mw%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=yfnITI4BHAEQ7kNvwGW6-VI&_nc_oc=AdpOBuakuq-mn0lVkrHX8opxjixZMAAnMliSev4Vk4UNKiQGJl8O1eJGWZuM6t_nPfg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQN-ac2lWQWHKadbSrmgNtjWnw7afpMTTHHta6s0LiehBA&oe=6AE1296E",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607239985796236",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/851477579_18674710294020081_7376834411782901581_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzIzOTk4NTc5NjIzNg%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Elg8caszrfYQ7kNvwHbGm2s&_nc_oc=AdqQd-0EiRn32jdpCrCbF3GyY3jXnRkdiBBRUEHDSKRJz__sURP2HBD35V6VBftGLtI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQN7oEBhLxww7FKWxiOVZiXWTt1Xb5LLveTJGDa3Fh3VRA&oe=6AE11013",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607244540884998",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/848804965_18674710354020081_2345508000079805331_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI0NDU0MDg4NDk5OA%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=w1k8GAXlXYYQ7kNvwHVJa0G&_nc_oc=AdpeYTILQp1GGup5aEg9nY9ITe1HecLEwBZGvYMfMYp8n-F6CCit4l_z8zsRIHFRjH8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQN9Ttkv3715I-Ba7IjanznBXmIeZjWzRWV9phmjl4h2Qw&oe=6AE1157B",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607255202973654",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/850371826_18674710336020081_3066453046428927806_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI1NTIwMjk3MzY1NA%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QD_fkFsXsiAQ7kNvwHLaLxi&_nc_oc=Adrx0Tfru8Vu-nO3d-pHlFF55VNgi31OKn3ywgOQ1KBrHPCTMwMxPCxj835Hrid9D5o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQO72z_i43mG4KuoWLSuxCU_ZpCeO4osPis8EN4zJvCwqg&oe=6AE13270",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607265604666822",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/855385332_18674710378020081_4218398452534515011_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI2NTYwNDY2NjgyMg%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=djU-XjDszZgQ7kNvwHFVomi&_nc_oc=AdpX-RBZa5KsaLGyLkY5Vjp4PI6CXGdeJAJIhG75qWlxSEg_c253rNqEIyflCMRrC-U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQM4evhEwOnOlpSU32ojYlw46bdF7mUca9yK4PoH8AKNWA&oe=6AE111AE",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607269245276014",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/852111645_18674710426020081_7222865706004919843_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI2OTI0NTI3NjAxNA%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zQdpJM5jpHMQ7kNvwH_griB&_nc_oc=Ado8kfnldX2MBwBtuOL2h22JGwsfsM40IrJgMkHomDYV9CwrwqHsPjZEOdTlaZADsTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQMzODcixRfP4bvBzFw3flJFbpxSFJKRuc7PZbjiEU0gcg&oe=6AE12648",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607269639769815",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/848814813_18674710348020081_5019488733799872293_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI2OTYzOTc2OTgxNQ%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=noNqPwExJYUQ7kNvwF2je_b&_nc_oc=AdoAg9IJcwTDzl-Q_yvoh1lZ_CanR5aXe5M8BCoKTMy4C3zi7wjN_reDkWf2cyDbIHM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQNicJ3D2rrKLPHFFwhIScEevl-SDIcXJzrzc-PJfo673Q&oe=6AE10F87",
+        "videoUrl": null
+      },
+      {
+        "id": "4009607274899363861",
+        "type": "IMAGE",
+        "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/851864975_18674710414020081_5357462280906556676_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwOTYwNzI3NDg5OTM2Mzg2MQ%3D%3D.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=imEXshTGEl0Q7kNvwEz8Tyg&_nc_oc=AdpVHMwOEorqfIFNvKe5EiY9WAOr7STDJ3WkQwW-Zv127R1RXeJkn1anyzC_vVBLYAU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQNpKuTvrYnW_QXC9nHuVHDKcG6vtHtj8dsetlKcBdOwfw&oe=6AE14132",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 39219,
+    "likesHidden": false,
+    "commentsCount": 303,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 39522,
+    "engagementRate": 0.000136,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.52,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 1453,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "nike",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "nike",
+    "userId": "13460080",
+    "profileUrl": "https://www.instagram.com/nike/",
+    "followersCount": 290911083,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "Nike",
+    "isVerified": true,
+    "followingCount": 266,
+    "postsCount": 1674,
+    "category": null
+  },
+  "content": {
+    "postId": "4008651950882420385",
+    "shortcode": "Dehl7Xohfah",
+    "postUrl": "https://www.instagram.com/reel/Dehl7Xohfah/",
+    "contentType": "REEL",
+    "caption": "Not everyone fits in.\n\nRaffle opens tomorrow at 7AM PST.\n\nhttps://yachty.shop\n\ndir. by me and @camhicks_",
+    "publishedAt": "2026-10-15T18:30:48.000Z",
+    "isReel": true,
+    "isCarousel": false,
+    "isVideo": true,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "lilyachty",
+    "coauthors": [
+      "nike",
+      "nsw"
+    ],
+    "visibleOnProfiles": [
+      "nike",
+      "lilyachty",
+      "nsw"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [
+      "camhicks_"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/849058117_18646039378015415_5013026744453848870_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwODY1MTk1MDg4MjQyMDM4NTE4NjQ2MDM5MzcyMDE1NDE1.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=9J539f9Irc4Q7kNvwHXp4FO&_nc_oc=AdqLiePP854WBQfKFWAMK15Fh4wuQo7ox6fmr7_GMczOAmQ_A0_jhByz47w0BfSOFXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQMH9xAeYgHQ1ckojtzymjgQa_q5xK82e24hXBak3YTqYw&oe=6AE12D4E",
+    "displayUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/849058117_18646039378015415_5013026744453848870_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&cb=30a688f7-ea5c0a5a&ig_cache_key=NDAwODY1MTk1MDg4MjQyMDM4NTE4NjQ2MDM5MzcyMDE1NDE1.3-ccb7-5-cb30a688f7-ea5c0a5a&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=9J539f9Irc4Q7kNvwHXp4FO&_nc_oc=AdqLiePP854WBQfKFWAMK15Fh4wuQo7ox6fmr7_GMczOAmQ_A0_jhByz47w0BfSOFXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq6-1.fna&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&oh=00_AQMH9xAeYgHQ1ckojtzymjgQa_q5xK82e24hXBak3YTqYw&oe=6AE12D4E",
+    "videoUrl": "https://instagram.fsvq6-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPP7uNCFg-wVhnwIOQZvT_UNfJMLJG0tcoswb2KLEr3RXW09LiVsLpRftNXcWIvlc2PlYpFS3H7CanZP0eqEmgCI7iszkQ6bejiTkg.mp4?_nc_cat=110&_nc_oc=Ado2U1xH2FArQ1yngKYfjTHZDEzH4qBip_1zFF2rtfkjP_1fRZ18OjeG6M-pMH-h3yo&_nc_sid=5e9851&_nc_ht=instagram.fsvq6-1.fna.fbcdn.net&_nc_ohc=TBZ-AsFWR7wQ7kNvwE_SSvB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYyNDI3MzYyOTA4NzQ0NiwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5a5953ef7ebd70ab&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERTdCMzI4NjM1ODg0OTBFODJGNzkwRDIzMjhGQ0U1RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQwODAzRkQwM0IxMTQ4N0U4RjBCN0YyMjU2NUEyMjgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasm_DKldHiBRUCKAJDMywXQERPvnbItDkYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=NHNgziR3xez_z6EqkA33-Q&_nc_ss=7c3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOBXrWln727IagAdXmxOpQs3H9UP7zDz2BVljTm0cRG4g&oe=6ADD1EAB",
+    "videoDurationSeconds": 40.623,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 191479,
+    "likesHidden": false,
+    "commentsCount": 920,
+    "playsCount": 10858825,
+    "viewsCount": null,
+    "sharesCount": 7644,
+    "engagement": 192399,
+    "engagementRate": 0.000661,
+    "engagementWithPlays": 0.017718
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 2.53,
+    "performanceTier": "BREAKOUT",
+    "isBreakout": true,
+    "signals": [
+      "HIGH_ENGAGEMENT_VS_BASELINE",
+      "HIGH_PLAY_VELOCITY"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 104,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 1,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "nike",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_summary",
+  "status": "BASELINE_CREATED",
+  "errorMessage": "Baseline saved: 21 known post(s). From the next run only new or changed content is returned.",
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "nike",
+    "userId": "13460080",
+    "profileUrl": "https://www.instagram.com/nike/",
+    "followersCount": 290911083,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "Nike",
+    "isVerified": true,
+    "followingCount": 266,
+    "postsCount": 1674,
+    "category": null
+  },
+  "content": null,
+  "metrics": null,
+  "change": null,
+  "performance": null,
+  "captionAnalysis": null,
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": {
+    "coverage": {
+      "postsScanned": 21,
+      "complete": true,
+      "route": "tikhub",
+      "stopReason": "window and baseline covered"
+    },
+    "newContentCount": 0,
+    "newReelsCount": 0,
+    "newCarouselsCount": 0,
+    "metricUpdatesCount": 0,
+    "deliveredRows": 3,
+    "breakoutCount": 0,
+    "paidPartnershipCount": 0,
+    "collabCount": 2,
+    "recentWindowDays": 10,
+    "recentPostsCount": 3,
+    "avgEngagement": 107624.7,
+    "medianEngagement": 90953,
+    "avgPlays": 6298837.5,
+    "medianPlays": 6298837.5,
+    "topPost": {
+      "postId": "4008651950882420385",
+      "postUrl": "https://www.instagram.com/reel/Dehl7Xohfah/",
+      "contentType": "REEL",
+      "publishedAt": "2026-10-15T18:30:48.000Z",
+      "engagement": 192399,
+      "performanceIndex": 2.53
+    },
+    "cadence": {
+      "postsLast7Days": 2,
+      "postsLast30Days": 8,
+      "postsPerWeek": 1.87,
+      "reelsPerWeek": 0.93,
+      "daysSinceLastPost": 0.6,
+      "coverageDays": 83.9
+    },
+    "contentMix": {
+      "sampleSize": 20,
+      "imageShare": 0.15,
+      "carouselShare": 0.35,
+      "reelShare": 0.5,
+      "videoShare": 0,
+      "previousReelShare": null
+    },
+    "baselines": {
+      "sampleSize": 20,
+      "medianLikesBaseline": 75065.5,
+      "medianCommentsBaseline": 998,
+      "medianPlaysBaseline": 2918676,
+      "medianEngagementBaseline": 76180
+    },
+    "hashtags": {
+      "topHashtags": [],
+      "hashtagFrequency": [],
+      "newHashtags": [],
+      "droppedHashtags": []
+    },
+    "mentions": {
+      "topMentions": [
+        {
+          "username": "bokrugby",
+          "count": 2
+        },
+        {
+          "username": "caitlinclark22",
+          "count": 2
+        },
+        {
+          "username": "aja22wilson",
+          "count": 1
+        },
+        {
+          "username": "athlos",
+          "count": 1
+        },
+        {
+          "username": "camhicks_",
+          "count": 1
+        },
+        {
+          "username": "carlitosalcarazz",
+          "count": 1
+        },
+        {
+          "username": "lalalalisa_m",
+          "count": 1
+        },
+        {
+          "username": "masai_russell",
+          "count": 1
+        },
+        {
+          "username": "nielsvink",
+          "count": 1
+        },
+        {
+          "username": "zhengqinwen_tennis",
+          "count": 1
+        }
+      ],
+      "newMentions": [],
+      "collaborators": [
+        {
+          "username": "nikebasketball",
+          "count": 8
+        },
+        {
+          "username": "nsw",
+          "count": 3
+        },
+        {
+          "username": "nikerunning",
+          "count": 2
+        },
+        {
+          "username": "carlitosalcarazz",
+          "count": 1
+        },
+        {
+          "username": "dianataurasi",
+          "count": 1
+        },
+        {
+          "username": "fanatics",
+          "count": 1
+        },
+        {
+          "username": "itsshacarri",
+          "count": 1
+        },
+        {
+          "username": "jamorant",
+          "count": 1
+        },
+        {
+          "username": "lalalalisa_m",
+          "count": 1
+        },
+        {
+          "username": "lilyachty",
+          "count": 1
+        }
+      ]
+    },
+    "signals": [],
+    "unavailableContent": [],
+    "counts": {
+      "scanned": 21,
+      "pinnedSkipped": 1,
+      "filteredByContentType": 0,
+      "collabsExcluded": 0,
+      "outsideLookback": 0,
+      "unchanged": 0,
+      "duplicatesInFeed": 0,
+      "incomplete": 0,
+      "notTracked": 0
+    }
+  },
+  "input": "nike",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4012202991963537522",
+    "shortcode": "DeuNV0WvwBy",
+    "postUrl": "https://www.instagram.com/reel/DeuNV0WvwBy/",
+    "contentType": "REEL",
+    "caption": "If you ain’t got no sauce, then you’re lost.",
+    "publishedAt": "2026-10-20T16:00:03.000Z",
+    "isReel": true,
+    "isCarousel": false,
+    "isVideo": true,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasbasketball",
+    "coauthors": [
+      "adidas",
+      "theanthonyedwards_"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasbasketball",
+      "theanthonyedwards_"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/858320076_18634486975060690_8505175150669416834_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=101&ig_cache_key=NDAxMjIwMjk5MTk2MzUzNzUyMjE4NjM0NDg2OTcyMDYwNjkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=LZC2iRsijPYQ7kNvwH_9NZh&_nc_oc=AdohY3bw8iTj3J8LvOJnIzz1RKnGI4qaVJ6qlFPmCkVwmgrMSLJGUOAJllNN0iSvN-A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPvDtpmEbee7ofRvrHQwkZ2H7Uu-vZzSAikVZmDRihNww&oe=6AE12A76",
+    "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/858320076_18634486975060690_8505175150669416834_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=101&ig_cache_key=NDAxMjIwMjk5MTk2MzUzNzUyMjE4NjM0NDg2OTcyMDYwNjkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=LZC2iRsijPYQ7kNvwH_9NZh&_nc_oc=AdohY3bw8iTj3J8LvOJnIzz1RKnGI4qaVJ6qlFPmCkVwmgrMSLJGUOAJllNN0iSvN-A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPvDtpmEbee7ofRvrHQwkZ2H7Uu-vZzSAikVZmDRihNww&oe=6AE12A76",
+    "videoUrl": "https://scontent-cdg4-1.cdninstagram.com/o1/v/t2/f2/m86/AQNKdxT0mZWGUgzFjYPv2zhlgWbex9fvBQoKYA59u6iQkmIynP3qKL79jouZoyvZUdZ-IFElebGPjc3KyaRT3Z0oqjtOSrJ3lspimnI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_ohc=XlpasGlKeY4Q7kNvwEhWszP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuOTYwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTUxMzY3NTM2Mzg4ODAxNiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b331e2620fff38c3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NjRBMTFCNDQ0REQ0RDU2QUZCOTQ2NzNGNTM4QTY2M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2NEE5MjgzOUU5NjRDNTU4QzE4Q0MwM0RCMEVERjM5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACagrvWlwKuwBRUCKAJDMywXQFKnbItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&_nc_zt=28&oh=00_AQNdBzUgt-Ypm5HH-HF5AH2lRfaFeqTmJ7anghLpJyw0MQ&oe=6ADD2173",
+    "videoDurationSeconds": 74.616,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 117259,
+    "likesHidden": false,
+    "commentsCount": 955,
+    "playsCount": 2400866,
+    "viewsCount": null,
+    "sharesCount": 13303,
+    "engagement": 118214,
+    "engagementRate": 0.003962,
+    "engagementWithPlays": 0.049238
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 6.17,
+    "performanceTier": "VIRAL_RELATIVE_TO_ACCOUNT",
+    "isBreakout": true,
+    "signals": [
+      "HIGH_ENGAGEMENT_VS_BASELINE",
+      "HIGH_PLAY_VELOCITY"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 44,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4011813854552285560",
+    "shortcode": "Des03H5lGF4",
+    "postUrl": "https://www.instagram.com/p/Des03H5lGF4/",
+    "contentType": "CAROUSEL",
+    "caption": "3. ALL IN. ⚡️\n\n@caminero, @chandlr3, and @yandydiaz2 are headed to baseball’s BIG STAGE",
+    "publishedAt": "2026-10-20T03:05:01.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasdugout",
+    "coauthors": [
+      "adidas"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasdugout"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [
+      "caminero",
+      "chandlr3",
+      "yandydiaz2"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/855448697_18630667594005301_7512668626810300620_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAxMTgwMjM3ODkxOTAyOTI1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=95qNtjuWJYsQ7kNvwG4-9Bi&_nc_oc=Adq3cHjW7ZPsgMw1PhedLTbanx2RNTUzQS5hU9Ro1xMJMTuhp3ScDD7sxVrzolJAEK8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNZQPL-9d-xd9Ue4ECVL_I81c5T4DX1uK8x75WvC8hClA&oe=6AE11FB6",
+    "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/855448697_18630667594005301_7512668626810300620_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxMTgwMjM3ODkxOTAyOTI1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=95qNtjuWJYsQ7kNvwG4-9Bi&_nc_oc=Adq3cHjW7ZPsgMw1PhedLTbanx2RNTUzQS5hU9Ro1xMJMTuhp3ScDD7sxVrzolJAEK8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNS6Vl1JlfxHDq12ALO9wseo0G0aSJcm9MfMKtz-UFi9g&oe=6AE11FB6",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4011802378919029254",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/855448697_18630667594005301_7512668626810300620_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxMTgwMjM3ODkxOTAyOTI1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=95qNtjuWJYsQ7kNvwG4-9Bi&_nc_oc=Adq3cHjW7ZPsgMw1PhedLTbanx2RNTUzQS5hU9Ro1xMJMTuhp3ScDD7sxVrzolJAEK8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNS6Vl1JlfxHDq12ALO9wseo0G0aSJcm9MfMKtz-UFi9g&oe=6AE11FB6",
+        "videoUrl": null
+      },
+      {
+        "id": "4011802379682496831",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/858263516_18630667603005301_1136453900722068839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAxMTgwMjM3OTY4MjQ5NjgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7FwVoAkVY5cQ7kNvwHMi4tS&_nc_oc=AdpomzJkM6Dw8HcmgO5DWSjDQlLbRInzlvqPymtfuYRMYasrojF1hQMudChZj7I_gcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOAP2Li0RUs1qP2HnBxEAZXJsfb_JpJXdL6y2GwU2pVMw&oe=6AE11719",
+        "videoUrl": null
+      },
+      {
+        "id": "4011802378726239143",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/856079630_18630667579005301_5250757348667742546_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxMTgwMjM3ODcyNjIzOTE0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RWwkr0XhbcsQ7kNvwFXKZNY&_nc_oc=AdpInTXdCIa-Xvf-5R0witKtaep3G0KVbFg9xHKV3m81gist-ithvJsMiS-5XeCSVog&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPYqaY3Iu4wmPCi853pInDPjIuMUzaEh6nVFYxbr1Rwsw&oe=6AE12666",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 3754,
+    "likesHidden": false,
+    "commentsCount": 56,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 3810,
+    "engagementRate": 0.000128,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.2,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [
+      "HIGH_COMMENT_RATE"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 87,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 3,
+    "emojiCount": 1
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4010360614693158899",
+    "shortcode": "Denqbs0AL_z",
+    "postUrl": "https://www.instagram.com/p/Denqbs0AL_z/",
+    "contentType": "CAROUSEL",
+    "caption": "U, up 👀\n@canesfootball comes out on top in a rivalry showdown!",
+    "publishedAt": "2026-10-18T02:57:41.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasusfootball",
+    "coauthors": [
+      "canesfootball",
+      "adidas"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasusfootball",
+      "canesfootball"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [
+      "canesfootball"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/847907774_18639639106061204_3854199488624997664_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=108&ig_cache_key=NDAxMDM1NDQwODM1NjQzNDI3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YvOUaGhogu4Q7kNvwHpSDpl&_nc_oc=Adqb21pwjx2zguLMfwHtCwhVfoVyFtx5-6IjObsB2l9CQVHvDqyB7vwv93vGnid6I6Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPK-PzYjSt88a12n4gP7qpVviBo52dF0T2UpbNutLcsPQ&oe=6AE11BDC",
+    "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/847907774_18639639106061204_3854199488624997664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxMDM1NDQwODM1NjQzNDI3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YvOUaGhogu4Q7kNvwHpSDpl&_nc_oc=Adqb21pwjx2zguLMfwHtCwhVfoVyFtx5-6IjObsB2l9CQVHvDqyB7vwv93vGnid6I6Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOj2y6ht6l09Nl0UjeN1Gz1VM_mTqTlxJbEZ-2aBHmx-g&oe=6AE11BDC",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4010354408356434272",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/847907774_18639639106061204_3854199488624997664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxMDM1NDQwODM1NjQzNDI3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YvOUaGhogu4Q7kNvwHpSDpl&_nc_oc=Adqb21pwjx2zguLMfwHtCwhVfoVyFtx5-6IjObsB2l9CQVHvDqyB7vwv93vGnid6I6Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOj2y6ht6l09Nl0UjeN1Gz1VM_mTqTlxJbEZ-2aBHmx-g&oe=6AE11BDC",
+        "videoUrl": null
+      },
+      {
+        "id": "4010354408624954455",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/850210756_18639639127061204_8468868743324647476_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMDM1NDQwODYyNDk1NDQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IN5g60ps5Y8Q7kNvwGL_QK1&_nc_oc=Adp-2x8FZ3LcjTdWy75ZoUo-yu3GePBYuVp6oW3H760qnBevpUhlLPzQKGSjz61gBdw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPov2CXZQLGKqh-Q3ueW-dGLSiEI_IFn9oLOUt3B7bePg&oe=6AE10FFD",
+        "videoUrl": null
+      },
+      {
+        "id": "4010354408784211403",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/852602507_18639639097061204_9095224098518588760_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAxMDM1NDQwODc4NDIxMTQwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lMiXxYJzIqgQ7kNvwFGQWg9&_nc_oc=AdoGImSuJnBXLt4BccN8Q7FsboqUJu08sgdD-oJ0j4R0xMuUR9KvLm155cdPlAI5Ow8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQM8ufqVNo6VWM5HlC4Z-TgwV76YnFnnPEIkwSLQzBEOWg&oe=6AE127A3",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 9777,
+    "likesHidden": false,
+    "commentsCount": 106,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 9883,
+    "engagementRate": 0.000331,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.52,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 62,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 1,
+    "emojiCount": 1
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4010249134412930091",
+    "shortcode": "DenRFctgBwr",
+    "postUrl": "https://www.instagram.com/p/DenRFctgBwr/",
+    "contentType": "CAROUSEL",
+    "caption": "W✔️\n\n@vol_football makes a statement in a week 7 college football win.",
+    "publishedAt": "2026-10-17T23:16:11.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasusfootball",
+    "coauthors": [
+      "adidas",
+      "vol_football"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasusfootball",
+      "vol_football"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [
+      "vol_football"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/852483894_18639574156061204_9039851222072575282_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=103&ig_cache_key=NDAxMDI0NzQzNjUzMzczNjY4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tIPweWdlQGUQ7kNvwEuJmSr&_nc_oc=AdraOh98QmCb7qjSclMMkn8v1wfobXmWi0uJDBoj6K0mDSxnOuvgyOMWIttSA3KHzpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPNrFCXRQwoT-uVGMIwJSijlNGZhaWpYfu8o8t-KhL4xQ&oe=6AE12FC3",
+    "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/852483894_18639574156061204_9039851222072575282_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMDI0NzQzNjUzMzczNjY4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tIPweWdlQGUQ7kNvwEuJmSr&_nc_oc=AdraOh98QmCb7qjSclMMkn8v1wfobXmWi0uJDBoj6K0mDSxnOuvgyOMWIttSA3KHzpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPSxcFo6Ntbe0AA49fqHy_YJ9HkynaACYUovw0FXqGilw&oe=6AE12FC3",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4010247436533736685",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/852483894_18639574156061204_9039851222072575282_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMDI0NzQzNjUzMzczNjY4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tIPweWdlQGUQ7kNvwEuJmSr&_nc_oc=AdraOh98QmCb7qjSclMMkn8v1wfobXmWi0uJDBoj6K0mDSxnOuvgyOMWIttSA3KHzpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPSxcFo6Ntbe0AA49fqHy_YJ9HkynaACYUovw0FXqGilw&oe=6AE12FC3",
+        "videoUrl": null
+      },
+      {
+        "id": "4010247437364084797",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/850098076_18639574147061204_8356474293484560871_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMDI0NzQzNzM2NDA4NDc5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3QPvjE_lGx4Q7kNvwFq0m69&_nc_oc=Adqbx0yDDzXE0LNPZT7AwIC5ChOeUoxoukzg64W-0q0RYqVOjOHCdgYKoEZPvebdwe0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMy4naCzGB2CCMNS9OviGV1UnoTRSjZk80YqKqgaR95mQ&oe=6AE12A7D",
+        "videoUrl": null
+      },
+      {
+        "id": "4010247438295136265",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/856374443_18639574165061204_4220406692742698664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxMDI0NzQzODI5NTEzNjI2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9DdV3PcpezoQ7kNvwGIIrwJ&_nc_oc=AdqLZq4opAfmt-MoC52I0Jtz3WrZY4SSg286bSz6v5ndzSuIZJ01UysX2JOC5zCDyds&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPC4F__pH8b1AzRj6wMIQ-KHSQwIyNwa-VlP_dWWlFQJA&oe=6AE10D26",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 12944,
+    "likesHidden": false,
+    "commentsCount": 26,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 12970,
+    "engagementRate": 0.000435,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.68,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 70,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 1,
+    "emojiCount": 1
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4010031527151804121",
+    "shortcode": "Demfm2KAB7Z",
+    "postUrl": "https://www.instagram.com/p/Demfm2KAB7Z/",
+    "contentType": "CAROUSEL",
+    "caption": "Sport meets style at Shanghai Fashion Week.",
+    "publishedAt": "2026-10-17T16:03:51.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidas",
+    "coauthors": [
+      "adidasoriginals"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasoriginals"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/852243509_18669956827045765_2959547377142079707_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAxMDAyODk5NzY4NDU1NzEyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EXx4zw25_scQ7kNvwEjaMOp&_nc_oc=AdrHZxSebC8ZzbFwSbyVexle9ZbLkqj3TESWIJOVzi8kclux3IakRW2ONZ94OdYVPtw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMl9lK8qgPaYb-otjqfqjHaYtjqsBoG3S6ujZiq_uXxkg&oe=6AE11024",
+    "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/852243509_18669956827045765_2959547377142079707_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAxMDAyODk5NzY4NDU1NzEyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EXx4zw25_scQ7kNvwEjaMOp&_nc_oc=AdrHZxSebC8ZzbFwSbyVexle9ZbLkqj3TESWIJOVzi8kclux3IakRW2ONZ94OdYVPtw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPctCc3xADAbIvtZ-jkmArjL6rnYtzhOTgqPQYOT83o6g&oe=6AE11024",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4010028997684557128",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/852243509_18669956827045765_2959547377142079707_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAxMDAyODk5NzY4NDU1NzEyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EXx4zw25_scQ7kNvwEjaMOp&_nc_oc=AdrHZxSebC8ZzbFwSbyVexle9ZbLkqj3TESWIJOVzi8kclux3IakRW2ONZ94OdYVPtw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPctCc3xADAbIvtZ-jkmArjL6rnYtzhOTgqPQYOT83o6g&oe=6AE11024",
+        "videoUrl": null
+      },
+      {
+        "id": "4010028998045399629",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/854711127_18669956815045765_1645493850500502797_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=106&ig_cache_key=NDAxMDAyODk5ODA0NTM5OTYyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xcCgg7insLUQ7kNvwGKIxzR&_nc_oc=AdpDH2NXChlCftbTs0lW21xfH0WpXOeVdWWmRK0a7ZDULiun2T7TXxcaLFLOOyxhgkw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMi9J-gOupLaOx8P90egR9dwG2IDForEnNDKq_rlI0x7g&oe=6AE13B66",
+        "videoUrl": null
+      },
+      {
+        "id": "4010028998187983566",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/845653526_18669956806045765_7398430980701796983_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMDAyODk5ODE4Nzk4MzU2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=euwSi-iEl6sQ7kNvwGozLGj&_nc_oc=Adpxva-td8k0NSM6QrEy6KuhCNPibclsDTSrAB6eu0jkk3SQLRmwSJz1bZ2vPM_B0hM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPnFkTreIZFq56xa_txuQ6zfNGkRZTlJV9UfN1pHn6dgA&oe=6AE11638",
+        "videoUrl": null
+      },
+      {
+        "id": "4010028999370806264",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/855923682_18669956854045765_3689982484030258571_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMDAyODk5OTM3MDgwNjI2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=d2FUEYTjrjoQ7kNvwGcdhtF&_nc_oc=AdqCYEzWzDdrI5fCOwBwZMPdzKfpSjM0flDRHTMymtHTYdoiqJV6pn4rIJoKckF7PqQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOUu4ww2A8qY9bhz2JkPfYh60CXB1f6HrR5aKExcMPyPw&oe=6AE12BA3",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029000125644817",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/851752993_18669956845045765_2588804470954320404_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=110&ig_cache_key=NDAxMDAyOTAwMDEyNTY0NDgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTg2Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0dp6NLnh834Q7kNvwHN7XMT&_nc_oc=AdpZO0g8RBcmghaHGgK3EKVRrKILS_8iXUJS5YOVefnjZOwO6RMspwYCnkHIpN1A6S4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMtbk6vRIpQrvmEOYFHhvPt7AFhbg8ePSmp6B-CLq8l3w&oe=6AE135CB",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029002247916092",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/851059272_18669956908045765_4491005351941589480_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=110&ig_cache_key=NDAxMDAyOTAwMjI0NzkxNjA5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jns4f9mGjykQ7kNvwEBcbrl&_nc_oc=AdpGEMspff4Z00rEKKT8tuLaqKejr4uZfvWovoFXCLxelTLKqdtUKI3MEdb78cr83hM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMK43EOGr5vzXAtsrS7QQe90YJtQ0P24_FPA5ajbm0C6Q&oe=6AE12F31",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029002701006582",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/852447129_18669956848045765_7778685035436215732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMDAyOTAwMjcwMTAwNjU4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIyMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DgF5MmIJ5DsQ7kNvwGrR10y&_nc_oc=AdootLGL2_-eyjwDd_y0m26pM6dvR9I8z0YiQckHl0MoXyYoy313br3oorQ6PGOQh20&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNKV-Mv8GMF0U_LVhg5Edxd4PSalZ_a9517yWVMpMANig&oe=6AE1193F",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029003120503748",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/854625366_18669956866045765_3006102981981640325_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMDAyOTAwMzEyMDUwMzc0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIyMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BAlzOLON5SsQ7kNvwEkhWtm&_nc_oc=AdrOVVOIGVNYTpjEQTUV_FpJSRpJRybk4Y7CBI4-72i8RvQRMpAdheZK3XXdRUCUs1I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQO9gkL69K0K_GKx3Hq47dhPzGEBXXZoccIycMiHwa4kJw&oe=6AE13093",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029006542950959",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/851924985_18669956887045765_1301597914287720492_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=109&ig_cache_key=NDAxMDAyOTAwNjU0Mjk1MDk1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gUlISTL7lJcQ7kNvwHPiuAX&_nc_oc=AdpZNKD6QhsPuYBY_25FNzeNDssKtYgrCuwh73upE8gyU4TcJbpkG0JkiZ8eM8cN7uw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOuerjVZz8Gn3Jfr364EA5ghogkj4q2u-E2qUMPQasjZQ&oe=6AE127B0",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029009814471972",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/850371820_18669957022045765_8751540568894916512_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMDAyOTAwOTgxNDQ3MTk3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=78PP133ekXwQ7kNvwEkNyAx&_nc_oc=AdpGVkkFUSutycva_IhZvJjIy-szhH2iosWGQ9dVg9gDv5UZkz4_DmkanPldLa8vZNw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPvMJbzEV4t_BMVwCkC1H2JKjgQQarR_PUmvWk5Kygm7Q&oe=6AE1137C",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029017448293708",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/846737559_18669957046045765_4538341388813029169_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAxMDAyOTAxNzQ0ODI5MzcwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTg4NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oRVPhsY7pzMQ7kNvwGAZGFl&_nc_oc=AdqO9qWlXMdEjDF5AUSnrYeuM9Ex9JuuueuIdVm5_H2GL2ljy48wOSxs9VHtyxIHSto&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPV5hSZ5R6qlSy8WRKcfs6TsJopJr95JvGmtBXoROX7GQ&oe=6AE11A87",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029022330418169",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/850466569_18669957070045765_6741032576203079217_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=104&ig_cache_key=NDAxMDAyOTAyMjMzMDQxODE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Pqqr4jlvzdUQ7kNvwEqzKRT&_nc_oc=Adq2eEjyvdDVHmnGOynmDel086dHPpbhw4vZOixOsF3AJJpvZnRIMCwKMKrNN2BUuns&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOh-_De0y4SVyJlB6ij2TIEywfIodcQMst60XhItChR1w&oe=6AE12C09",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029020199552045",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848751828_18669957031045765_4867220406851553475_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMDAyOTAyMDE5OTU1MjA0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=5u8kid5r-T0Q7kNvwF53N2L&_nc_oc=AdqJyzvTW-_GbOvSxiVKgmJqgR1WJQU03wrcvKw3zy3R6WcI_OaA74857UiqvVAtJuU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPXq2eVXCZWI35la2Ll2egTcTko_IP-UX3YLy0vcviQUQ&oe=6AE13E0C",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029022397495649",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/850098267_18669957109045765_7230347273142790686_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=107&ig_cache_key=NDAxMDAyOTAyMjM5NzQ5NTY0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Rd9fPf2rsXwQ7kNvwEZc84z&_nc_oc=AdqpQY16rpOJcFaCs9KGLbjRZ2_ZFii3IC6bQ6w3I4giG84QmBQ96mqUJ5w36n3W63g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNNkydk6smOCsgd5Ka9bCVZPWgXTD2R_rSLN-5bKR6zOA&oe=6AE11744",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029026734270359",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/842005579_18669957118045765_8733726100947547197_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=108&ig_cache_key=NDAxMDAyOTAyNjczNDI3MDM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=62YIZ9NcSW8Q7kNvwHkLIZ6&_nc_oc=AdoNa_f3e_YTYuM29MwEo_Bd3QB5uqk6BmobbyQLdjygK3hYmMYSirnW-uhnO8DVISQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNTlO5t_VnQLBMhuB8VH9pOtt_2FWZRzSak5M92LDvoig&oe=6AE13A55",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029028856643182",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/855831252_18669957127045765_436711812011928383_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=105&ig_cache_key=NDAxMDAyOTAyODg1NjY0MzE4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WIN6QudUgYsQ7kNvwEi_1lo&_nc_oc=AdrhG4V9So9k9fnk1oFFW4ovU7NWsHzpEQxTbAXWLaw-07_Yho4w9M3qJ-38WXSfs_s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPnpC0ngWevzKCQTU6bGOW40lt9yRYvaRfQrtQ6vuDFmA&oe=6AE12FAF",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029029729059630",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/852483874_18669957136045765_1068302362561777758_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=110&ig_cache_key=NDAxMDAyOTAyOTcyOTA1OTYzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TKExJ2PyJoEQ7kNvwFQJzvt&_nc_oc=AdpJUVbThjPIlmtTCDgs3kP48zCPMMvjtVSlh3WXWSZfBNV5IZU1Xw8TVxpfnW17YdM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQN6cg_nCS_GmKaqYEffgp1e-7fUvgHwykQxZMHJMN5B9w&oe=6AE120C8",
+        "videoUrl": null
+      },
+      {
+        "id": "4010029031834613631",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/846754953_18669957160045765_2331258753982553989_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=108&ig_cache_key=NDAxMDAyOTAzMTgzNDYxMzYzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=elgI4W0QUhcQ7kNvwGJfAlA&_nc_oc=AdoGqwuICJFOpC9AL5_Vjtvl9vDzNajRusSQYTP3ot7K5tsl3jwpE74qVVdgwvTJCmc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPLF-g4cFGd8gnD6VO5kllGB3UXuOwSFDJNWcyU37fktw&oe=6AE13383",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 27975,
+    "likesHidden": false,
+    "commentsCount": 248,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 28223,
+    "engagementRate": 0.000946,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 1.47,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 43,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4009584555300430134",
+    "shortcode": "Dek5-jLkyE2",
+    "postUrl": "https://www.instagram.com/p/Dek5-jLkyE2/",
+    "contentType": "CAROUSEL",
+    "caption": "Sometimes the route isn’t the one you expected.\n\nWhen her season took an unexpected turn, @ruthcrofty arrived on the start line of one of trail running’s most iconic races.\n \nDiagonale des Fous. Debut. Victory.\n \n⏱️ 27:13:23\n👟 adidas Agravic SL\n \n#YouGotThis",
+    "publishedAt": "2026-10-17T01:15:47.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasaotearoa",
+    "coauthors": [
+      "adidasrunning",
+      "adidas",
+      "ruthcrofty"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasaotearoa",
+      "adidasrunning",
+      "ruthcrofty"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [
+      "YouGotThis"
+    ],
+    "mentions": [
+      "ruthcrofty"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848370588_18097926254540269_66367024045826744_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwOTU4NDE1MTAzMjE2ODQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SmVxepPsIDwQ7kNvwFwe2JP&_nc_oc=AdoLVWQ8S5BEJR-Tyb44pGf1cJ218fnf6pLvjEfs2lw7HhSsEwhHAYc1kuBsTu4kD0w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQO_EyxEK_sFm8LHR8M_Rkwg1z3eEQO9IrGLw3kWYzR0pQ&oe=6AE116A5",
+    "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848370588_18097926254540269_66367024045826744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwOTU4NDE1MTAzMjE2ODQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SmVxepPsIDwQ7kNvwFwe2JP&_nc_oc=AdoLVWQ8S5BEJR-Tyb44pGf1cJ218fnf6pLvjEfs2lw7HhSsEwhHAYc1kuBsTu4kD0w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNRaOWr9oigOKGMWXQKRmGgWyOcjECd2ROiROJmd61I0Q&oe=6AE116A5",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4009584151032168491",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848370588_18097926254540269_66367024045826744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwOTU4NDE1MTAzMjE2ODQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SmVxepPsIDwQ7kNvwFwe2JP&_nc_oc=AdoLVWQ8S5BEJR-Tyb44pGf1cJ218fnf6pLvjEfs2lw7HhSsEwhHAYc1kuBsTu4kD0w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNRaOWr9oigOKGMWXQKRmGgWyOcjECd2ROiROJmd61I0Q&oe=6AE116A5",
+        "videoUrl": null
+      },
+      {
+        "id": "4009584152181222186",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/844917792_18097926263540269_4503911717252058732_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=106&ig_cache_key=NDAwOTU4NDE1MjE4MTIyMjE4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7a7xLu2LqrUQ7kNvwGSYnA5&_nc_oc=Adpz937RfQl9eXSycNRlMR3wG5biOCDxvkUzuArUVLuga46I1G0-O7SR22jtfBJbBz4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPQKOzcboSrCIMqtDzqAu_Hyni-OL7btkFhpf_LAxmZ8A&oe=6AE11B62",
+        "videoUrl": null
+      },
+      {
+        "id": "4009584153531851769",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/848804753_18097926293540269_6436420369494143900_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=107&ig_cache_key=NDAwOTU4NDE1MzUzMTg1MTc2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QB23jwbic7AQ7kNvwE0QqjE&_nc_oc=Adqf-aHKQKCAp14VNekIUevUSM_FgUNKYrBDbdp8H769gp-YzcU4oIOdChyzviQhaD0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQP1sWBswCU7WlUo9-DGbeiR_WzKDu6zR7YAEZnN4Nm-Ig&oe=6AE1387F",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 4990,
+    "likesHidden": false,
+    "commentsCount": 63,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 5053,
+    "engagementRate": 0.000169,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.26,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 258,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 1,
+    "mentionCount": 1,
+    "emojiCount": 2
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4009369179685147158",
+    "shortcode": "DekJAbAiFIW",
+    "postUrl": "https://www.instagram.com/p/DekJAbAiFIW/",
+    "contentType": "CAROUSEL",
+    "caption": "It’s one thing to start strong.\n\nIt’s another to see it through.\n\n@deckhugo delivers when it matters most to claim victory at Diagonale des Fous.\nC’est ça, aller au bout.\n\n⏱️ 22:54:19\n👟 adidas Agravic Speed Ultra 2\n\n#YouGotThis",
+    "publishedAt": "2026-10-16T18:07:53.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasfr",
+    "coauthors": [
+      "deckhugo",
+      "adidasrunning",
+      "adidas"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasfr",
+      "deckhugo",
+      "adidasrunning"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [
+      "YouGotThis"
+    ],
+    "mentions": [
+      "deckhugo"
+    ],
+    "location": {
+      "id": "734601926",
+      "name": "Ile De La Reunion - Reunion Island",
+      "slug": null
+    },
+    "thumbnailUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/852643848_18634754896053984_8607151853963615365_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=104&ig_cache_key=NDAwOTM2Nzg2MjQ0ODc4MzUwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dHXEnsLra8sQ7kNvwFcjeBU&_nc_oc=AdrHeA2w9KpyT77P5239egT-sK6X3WmeXT9fOVE3oi1VUw6NnPGSlxBam-eRPaTvA4E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOY3bjmPfRyRYl5Cz3xFEujPb_K6Q0vXHeUMqk9-ciiHQ&oe=6AE122F3",
+    "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/852643848_18634754896053984_8607151853963615365_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=104&ig_cache_key=NDAwOTM2Nzg2MjQ0ODc4MzUwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dHXEnsLra8sQ7kNvwFcjeBU&_nc_oc=AdrHeA2w9KpyT77P5239egT-sK6X3WmeXT9fOVE3oi1VUw6NnPGSlxBam-eRPaTvA4E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOVj7sGRvOA8iGGj_w5WdOp_nTnoWB4_rIgyOdrdPWSgA&oe=6AE122F3",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4009367862448783508",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/852643848_18634754896053984_8607151853963615365_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=104&ig_cache_key=NDAwOTM2Nzg2MjQ0ODc4MzUwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dHXEnsLra8sQ7kNvwFcjeBU&_nc_oc=AdrHeA2w9KpyT77P5239egT-sK6X3WmeXT9fOVE3oi1VUw6NnPGSlxBam-eRPaTvA4E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOVj7sGRvOA8iGGj_w5WdOp_nTnoWB4_rIgyOdrdPWSgA&oe=6AE122F3",
+        "videoUrl": null
+      },
+      {
+        "id": "4009367869109511463",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848774192_18634754908053984_5754026746526137047_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=110&ig_cache_key=NDAwOTM2Nzg2OTEwOTUxMTQ2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LVU_00VscXIQ7kNvwHa8dqv&_nc_oc=AdpdNCOOBMf2PzdYX5Brtc0UQK0Y2RfJfy3KYT54qUKWhcIVdNMEg1-TsKoc8VfdmjQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQP9hiuPWVd4mEGm1ZFve7QYVYSI2gQxNOtUEz-TCz6ARA&oe=6AE1344B",
+        "videoUrl": null
+      },
+      {
+        "id": "4009367872515318159",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/849194948_18634754923053984_1990228025168974389_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=111&ig_cache_key=NDAwOTM2Nzg3MjUxNTMxODE1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cvPxe7KNKMgQ7kNvwFT6tjo&_nc_oc=AdrvjcvyNODn5PpOMOGh69287Lkh5HUjcdF5o1TBfusLFpkp6E3hmKmveWo9Z_xO-6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNsRyjJ17vxGR3TM-oXBveYpMDIGZmBZcHRmlUVtIqC8g&oe=6AE10A8F",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 20138,
+    "likesHidden": false,
+    "commentsCount": 133,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 20271,
+    "engagementRate": 0.000679,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 1.06,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 227,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 1,
+    "mentionCount": 1,
+    "emojiCount": 2
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4008916427394091635",
+    "shortcode": "DeiiEAlDYpz",
+    "postUrl": "https://www.instagram.com/p/DeiiEAlDYpz/",
+    "contentType": "CAROUSEL",
+    "caption": "October belongs to him. \n@jacksonbryaan advances to the championship 👏",
+    "publishedAt": "2026-10-16T03:08:20.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasdugout",
+    "coauthors": [
+      "adidas"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasdugout"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [
+      "jacksonbryaan"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/849588423_18629211103005301_8603799113800705201_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAwODkxMjYzNDg5MDMyNDIzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aRFXz_-O9z4Q7kNvwF60x04&_nc_oc=Adq0vLmztd7kYpFNuRM9K2IeDXOT7ZUeMQdU8iA-7PQRMBJKJjDV5qwXYVlu48Tf8LU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMmC__tdP0pjLnOt__YRyJcKQ5fbhwlFoAJLDhxfAvtgw&oe=6AE13D17",
+    "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/849588423_18629211103005301_8603799113800705201_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwODkxMjYzNDg5MDMyNDIzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aRFXz_-O9z4Q7kNvwF60x04&_nc_oc=Adq0vLmztd7kYpFNuRM9K2IeDXOT7ZUeMQdU8iA-7PQRMBJKJjDV5qwXYVlu48Tf8LU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMOnky67Gk9C5D8XtVFhdPRhNHRv2ot8t_2hi9t9mDhiA&oe=6AE13D17",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4008912634890324230",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/849588423_18629211103005301_8603799113800705201_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwODkxMjYzNDg5MDMyNDIzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aRFXz_-O9z4Q7kNvwF60x04&_nc_oc=Adq0vLmztd7kYpFNuRM9K2IeDXOT7ZUeMQdU8iA-7PQRMBJKJjDV5qwXYVlu48Tf8LU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMOnky67Gk9C5D8XtVFhdPRhNHRv2ot8t_2hi9t9mDhiA&oe=6AE13D17",
+        "videoUrl": null
+      },
+      {
+        "id": "4008912640242263670",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/851411183_18629211130005301_3181986543387950986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwODkxMjY0MDI0MjI2MzY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oiOmmWXfZsoQ7kNvwH18OxD&_nc_oc=Adr6jqUsQYTcJMYuOZtjYH4a5A-fsCwZUcdDXX1tUqscZXOY8FcmToYpYSwdP64Od5k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQP71Ezg-_iNX_6JLy4sHKvNEDgDZvD5jvD8beFxDUpTGA&oe=6AE140AE",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 5478,
+    "likesHidden": false,
+    "commentsCount": 45,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 5523,
+    "engagementRate": 0.000185,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.29,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 70,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 1,
+    "emojiCount": 1
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4007624937785513140",
+    "shortcode": "Ded8aXJs9S0",
+    "postUrl": "https://www.instagram.com/reel/Ded8aXJs9S0/",
+    "contentType": "REEL",
+    "caption": "Before the results, there are roots.​\n​\nDiscover the places and experiences that shaped Ruth Croft - and the person beyond the athlete. ⛰️​\n​\nROOTS: The Ruth Croft Story.​\n​\n▶️ Watch the full documentary now on the adidas YouTube channel. ​",
+    "publishedAt": "2026-10-14T08:24:17.000Z",
+    "isReel": true,
+    "isCarousel": false,
+    "isVideo": true,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "adidasrunning",
+    "coauthors": [
+      "adidas",
+      "adidasaotearoa",
+      "ruthcrofty"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "adidasrunning",
+      "adidasaotearoa",
+      "ruthcrofty"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/848236875_18642671410048623_2730388921800689470_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&ig_cache_key=NDAwNzYyNDkzNzc4NTUxMzE0MDE4NjQyNjcxNDA3MDQ4NjIz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=MA9nbUCdUmkQ7kNvwFkz0U8&_nc_oc=Adoa8GTYw4fnEkOWpNKH3SmRsphgs35zlBCZwgVboeKSQwxw2-946bTUQYs9AE9-F_M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPRLTYl8bS10hJ9e6uF0lhOO9rbksXgKDPkcOpEhbZRLQ&oe=6AE12628",
+    "displayUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/848236875_18642671410048623_2730388921800689470_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&ig_cache_key=NDAwNzYyNDkzNzc4NTUxMzE0MDE4NjQyNjcxNDA3MDQ4NjIz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=MA9nbUCdUmkQ7kNvwFkz0U8&_nc_oc=Adoa8GTYw4fnEkOWpNKH3SmRsphgs35zlBCZwgVboeKSQwxw2-946bTUQYs9AE9-F_M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQPRLTYl8bS10hJ9e6uF0lhOO9rbksXgKDPkcOpEhbZRLQ&oe=6AE12628",
+    "videoUrl": "https://scontent-cdg4-1.cdninstagram.com/o1/v/t2/f2/m86/AQMOebsfFe5J8SSCRny-g6SxY_5GTBjB5N9xlmDIty9povs5GC8n3pgINS214MAgd5-mFnOmznZCYHMXF9ZvRmx6o50zJIuyXCDgXYk.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_ohc=b-L5hVgg6uYQ7kNvwHZzBsX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMyNzgyMTA4ODAzNTg4NywiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d574f1f4bbd35112&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNkRCMkRGRjI3NEE0NzJFQUY0RDBCQkYzOEZDOTUwMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U5QTEwOTNDRDg2NTRGRUNBOEEzNkM3Mzg5OEE3MkJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbe0OzQgsmiCBUCKAJDMywXQDIeuFHrhR8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&_nc_zt=28&oh=00_AQMEUBGQTuuRCGdUc5uOy8DSfHaWHFYgkEPaPcnkbUBf4w&oe=6ADD2A3D",
+    "videoDurationSeconds": 18.12,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 3643,
+    "likesHidden": false,
+    "commentsCount": 53,
+    "playsCount": 304166,
+    "viewsCount": null,
+    "sharesCount": 128,
+    "engagement": 3696,
+    "engagementRate": 0.000124,
+    "engagementWithPlays": 0.012151
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 0.19,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [
+      "HIGH_COMMENT_RATE"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 240,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 2
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": {
+    "postId": "4007100888581575031",
+    "shortcode": "DecFQcTDpF3",
+    "postUrl": "https://www.instagram.com/p/DecFQcTDpF3/",
+    "contentType": "CAROUSEL",
+    "caption": "The @adidas Samba OG x Mercedes-Benz is out now! 👟✨ \n\n#WelcomeHome #140YearsOfInnovation",
+    "publishedAt": "2026-10-13T15:01:19.000Z",
+    "isReel": false,
+    "isCarousel": true,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "mercedesbenz",
+    "coauthors": [
+      "adidas",
+      "adidasoriginals"
+    ],
+    "visibleOnProfiles": [
+      "adidas",
+      "mercedesbenz",
+      "adidasoriginals"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [
+      "WelcomeHome",
+      "140YearsOfInnovation"
+    ],
+    "mentions": [
+      "adidas"
+    ],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/845808377_18642929521021976_1717301656993746956_n.jpg?stp=dst-jpg_e35_p480x480_sh2.08_tt6&_nc_cat=101&ig_cache_key=NDAwNzEwMDMzOTU2MzU4ODkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oP6o_lvO-ZcQ7kNvwGkBpA-&_nc_oc=Ado16ijDjsgrpVGhJJc15JfeIafxE9bMC5Idcjd96VSX6KOqTKDLq2THDRbPT6CfNno&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNG6rmEhsOhlrCB_GJLfqs4UbOBOY1TG1oSTQx8fEMJaQ&oe=6AE13FD4",
+    "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/845808377_18642929521021976_1717301656993746956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwNzEwMDMzOTU2MzU4ODkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oP6o_lvO-ZcQ7kNvwGkBpA-&_nc_oc=Ado16ijDjsgrpVGhJJc15JfeIafxE9bMC5Idcjd96VSX6KOqTKDLq2THDRbPT6CfNno&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOlUV7FbEoHc6kAswcTmGqeO9xui_ivqntjtfplV-EAoA&oe=6AE13FD4",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": [
+      {
+        "id": "4007100339563588913",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/845808377_18642929521021976_1717301656993746956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwNzEwMDMzOTU2MzU4ODkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oP6o_lvO-ZcQ7kNvwGkBpA-&_nc_oc=Ado16ijDjsgrpVGhJJc15JfeIafxE9bMC5Idcjd96VSX6KOqTKDLq2THDRbPT6CfNno&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOlUV7FbEoHc6kAswcTmGqeO9xui_ivqntjtfplV-EAoA&oe=6AE13FD4",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100337290226083",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/848119384_18642929539021976_8208409434514219977_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwNzEwMDMzNzI5MDIyNjA4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JmqoOfkMLrQQ7kNvwH1ZKF8&_nc_oc=AdoOJFGLh_esL8nNEtGAqtFeariu-Oz2uHEI_5CmwRygbuxEv9K7ZvTcl9smE3Z4Syw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQMIZgFaGc4U-8_R2WzAX5GDPNdwUKYzS2c8IlAKhmc1bw&oe=6AE11648",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100336560421245",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/846909713_18642929494021976_7932851805021800163_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNzEwMDMzNjU2MDQyMTI0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BSLkogWYT2oQ7kNvwH1-IpM&_nc_oc=AdpESiWw3yogowGTYv3ooXXxv8usA_rE7Chb0ktAuP9Sw4HYh5hijMyg1F4WrSl1tsE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQN1HGEy_EWHL9UflFMt1rLHdZu4GuaeObl8cy1kpnmoCw&oe=6AE13B27",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100561249996648",
+        "type": "VIDEO",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.71878-15/846485660_2016378049045190_3519497478155075373_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=104&ig_cache_key=NDAwNzEwMDU2MTI0OTk5NjY0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=cS6yzY5H8C0Q7kNvwFO0K59&_nc_oc=AdrtOKsOAxLo2dZ2qrbUMK1MUyZDz7sbrx-Ys4TqCXfxKeF4m7-SCsiJH8gSYcErlhM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOw_iUKcNQZwN4aPtrA7G8xGYwMKuy4xS5eXYXPEbNV2g&oe=6AE12E7F",
+        "videoUrl": "https://scontent-cdg6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNrHNtqnLT4a2KtwDDpaMUytXLTsQPUprcX7jG2cDXHngQmKnTXK_q68KU2XM5IWVNytt2FBaEYJv2YHyq_WioF1j4v8nd4xX2eP5g.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_ohc=5OfD6Am4hRYQ7kNvwFtFy5d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODY0MjkyOTY5MjAyMTk3NiwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=19c98a862c1689f4&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82NUE1OTdDOTdDQ0E0NzNEQTFCRDRDQTAxMkJENzY5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg2NzVDQzRCQTU0RDQ0NjNBQjc5RDIxMDBFMEVFRDRGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw0-ydqumdQhUCKAJDMywXQCDMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZcSeAQA&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&_nc_zt=28&oh=00_AQMCg9HjGCx9RVkK-28ycx6278q0oOYzR17_t4CL2EvWpQ&oe=6ADD39F3"
+      },
+      {
+        "id": "4007100337114090430",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848665258_18642929509021976_3418587522578009088_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwNzEwMDMzNzExNDA5MDQzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3N2asp6t21IQ7kNvwFwgpES&_nc_oc=Ado0k_N0_uG-mSWOIS-fFTGRoTB5RJbYTovljSAfEk-rmw9sK6xznokhRSQljxtfhcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQNtVF5WZzjp7-LyBLRChKRi24RxlQrDu9zXklZtmqCltw&oe=6AE13AC8",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100338582081410",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/846593265_18642929488021976_1719771882514080512_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwNzEwMDMzODU4MjA4MTQxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YpcBDzVvuqsQ7kNvwEHrwER&_nc_oc=AdqFasS3PWz3O21qJcWEFiYpBpDO22XMzyXiItZ2p2sx7L1kJ1FSZRziVLHYtPacX0k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOWh1IdX1YPf_vE4lzUgKlUM_z9G3tglH9ca7ojxjYEDg&oe=6AE12C4C",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100342583490064",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/847847777_18642929542021976_5138464982186019675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAwNzEwMDM0MjU4MzQ5MDA2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fNytsNGXakcQ7kNvwF8TSYE&_nc_oc=Adq1GQvuPSpQHoSLG4TElJoZRjPQpAKOXDA30vjg_2Qk72Z6p7ojr6pNCAsSDM9uWmo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQOV5Nyw6TbM-Z_Ulvrbd7FPvJkhzBlIyKJIcTxHYQWHHQ&oe=6AE10E62",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100336057152120",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/848761455_18642929518021976_2953334479846996440_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwNzEwMDMzNjA1NzE1MjEyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=q2TlL0klLq0Q7kNvwF112gp&_nc_oc=Adp2qYdwGajrWnuMz756Z6d7xw58cQETFIqrpPIbHagQ9HLbYmz0bwkMALWCR7Z8fhc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQN5rjD4MfwVilAZDcGNTOB4iYz-KtBqx9z7Nm3rHrxXlA&oe=6AE14043",
+        "videoUrl": null
+      },
+      {
+        "id": "4007100341534863034",
+        "type": "IMAGE",
+        "displayUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/846394645_18642929557021976_8245650141178707257_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNzEwMDM0MTUzNDg2MzAzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LJbgGkkUXUQQ7kNvwEugs4R&_nc_oc=AdpK3wmlXa0xc6w3d-UA0jsuuxzArqVy_0accT2ZDMxRnV5I5mN2A3f1ofbVj-P9k5A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=zQ-P1dcQZuprSk2BmPuP0g&_nc_ss=7c3ba&oh=00_AQN17YNekNrRfYMsDhro7ZKtn80_jCl0lt0GqYUyfaTB-w&oe=6AE13B95",
+        "videoUrl": null
+      }
+    ]
+  },
+  "metrics": {
+    "likesCount": 65627,
+    "likesHidden": false,
+    "commentsCount": 263,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 65890,
+    "engagementRate": 0.002209,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 3.44,
+    "performanceTier": "BREAKOUT",
+    "isBreakout": true,
+    "signals": [
+      "HIGH_ENGAGEMENT_VS_BASELINE"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 88,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 2,
+    "mentionCount": 1,
+    "emojiCount": 2
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_summary",
+  "status": "BASELINE_CREATED",
+  "errorMessage": "Baseline saved: 22 known post(s). From the next run only new or changed content is returned.",
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "adidas",
+    "userId": "20269764",
+    "profileUrl": "https://www.instagram.com/adidas/",
+    "followersCount": 29833901,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "adidas",
+    "isVerified": true,
+    "followingCount": 1061,
+    "postsCount": null,
+    "category": "Product/service"
+  },
+  "content": null,
+  "metrics": null,
+  "change": null,
+  "performance": null,
+  "captionAnalysis": null,
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": {
+    "coverage": {
+      "postsScanned": 22,
+      "complete": true,
+      "route": "tikhub",
+      "stopReason": "window and baseline covered"
+    },
+    "newContentCount": 0,
+    "newReelsCount": 0,
+    "newCarouselsCount": 0,
+    "metricUpdatesCount": 0,
+    "deliveredRows": 10,
+    "breakoutCount": 0,
+    "paidPartnershipCount": 0,
+    "collabCount": 10,
+    "recentWindowDays": 10,
+    "recentPostsCount": 10,
+    "avgEngagement": 27353.3,
+    "medianEngagement": 11426.5,
+    "avgPlays": 1352516,
+    "medianPlays": 1352516,
+    "topPost": {
+      "postId": "4012202991963537522",
+      "postUrl": "https://www.instagram.com/reel/DeuNV0WvwBy/",
+      "contentType": "REEL",
+      "publishedAt": "2026-10-20T16:00:03.000Z",
+      "engagement": 118214,
+      "performanceIndex": 6.17
+    },
+    "cadence": {
+      "postsLast7Days": 7,
+      "postsLast30Days": 20,
+      "postsPerWeek": 8.48,
+      "reelsPerWeek": 1.27,
+      "daysSinceLastPost": 2.9,
+      "coverageDays": 16.5
+    },
+    "contentMix": {
+      "sampleSize": 20,
+      "imageShare": 0,
+      "carouselShare": 0.85,
+      "reelShare": 0.15,
+      "videoShare": 0,
+      "previousReelShare": null
+    },
+    "baselines": {
+      "sampleSize": 20,
+      "medianLikesBaseline": 19033.5,
+      "medianCommentsBaseline": 108.5,
+      "medianPlaysBaseline": 2400866,
+      "medianEngagementBaseline": 19155.5
+    },
+    "hashtags": {
+      "topHashtags": [
+        {
+          "tag": "yougotthis",
+          "count": 7
+        },
+        {
+          "tag": "140yearsofinnovation",
+          "count": 1
+        },
+        {
+          "tag": "ad10s",
+          "count": 1
+        },
+        {
+          "tag": "adizero",
+          "count": 1
+        },
+        {
+          "tag": "welcomehome",
+          "count": 1
+        }
+      ],
+      "hashtagFrequency": [
+        {
+          "tag": "yougotthis",
+          "count": 7
+        },
+        {
+          "tag": "140yearsofinnovation",
+          "count": 1
+        },
+        {
+          "tag": "ad10s",
+          "count": 1
+        },
+        {
+          "tag": "adizero",
+          "count": 1
+        },
+        {
+          "tag": "welcomehome",
+          "count": 1
+        }
+      ],
+      "newHashtags": [],
+      "droppedHashtags": []
+    },
+    "mentions": {
+      "topMentions": [
+        {
+          "username": "hawi_feysa",
+          "count": 2
+        },
+        {
+          "username": "kipruto_a",
+          "count": 2
+        },
+        {
+          "username": "adidas",
+          "count": 1
+        },
+        {
+          "username": "caminero",
+          "count": 1
+        },
+        {
+          "username": "canesfootball",
+          "count": 1
+        },
+        {
+          "username": "chandlr3",
+          "count": 1
+        },
+        {
+          "username": "deckhugo",
+          "count": 1
+        },
+        {
+          "username": "jacksonbryaan",
+          "count": 1
+        },
+        {
+          "username": "ruthcrofty",
+          "count": 1
+        },
+        {
+          "username": "tadesetakele_official",
+          "count": 1
+        }
+      ],
+      "newMentions": [],
+      "collaborators": [
+        {
+          "username": "adidasrunning",
+          "count": 8
+        },
+        {
+          "username": "adidasus",
+          "count": 4
+        },
+        {
+          "username": "adidasar",
+          "count": 3
+        },
+        {
+          "username": "adidasfootball",
+          "count": 3
+        },
+        {
+          "username": "adidasaotearoa",
+          "count": 2
+        },
+        {
+          "username": "adidasdugout",
+          "count": 2
+        },
+        {
+          "username": "adidasoriginals",
+          "count": 2
+        },
+        {
+          "username": "adidasusfootball",
+          "count": 2
+        },
+        {
+          "username": "ruthcrofty",
+          "count": 2
+        },
+        {
+          "username": "adidasbasketball",
+          "count": 1
+        }
+      ]
+    },
+    "signals": [],
+    "unavailableContent": [],
+    "counts": {
+      "scanned": 22,
+      "pinnedSkipped": 2,
+      "filteredByContentType": 0,
+      "collabsExcluded": 0,
+      "outsideLookback": 0,
+      "unchanged": 0,
+      "duplicatesInFeed": 0,
+      "incomplete": 0,
+      "notTracked": 0
+    }
+  },
+  "input": "adidas",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "puma",
+    "userId": "10145706",
+    "profileUrl": "https://www.instagram.com/puma/",
+    "followersCount": 12945092,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "PUMA",
+    "isVerified": true,
+    "followingCount": 156,
+    "postsCount": null,
+    "category": "Clothing (Brand)"
+  },
+  "content": {
+    "postId": "4012144458159622019",
+    "shortcode": "DeuACCgKAeD",
+    "postUrl": "https://www.instagram.com/reel/DeuACCgKAeD/",
+    "contentType": "REEL",
+    "caption": "Back with 0 doubt. Hali 1 ‘Pace’ drops this Friday.",
+    "publishedAt": "2026-10-20T14:04:02.000Z",
+    "isReel": true,
+    "isCarousel": false,
+    "isVideo": true,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "pumahoops",
+    "coauthors": [
+      "puma",
+      "tyresehaliburton"
+    ],
+    "visibleOnProfiles": [
+      "puma",
+      "pumahoops",
+      "tyresehaliburton"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/857105929_1466922531978703_3743047391444049058_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=110&ig_cache_key=NDAxMjE0NDQ1ODE1OTYyMjAxOTE0NjY5MjI1Mjg2NDUzNzA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=JQIHuzt3zqgQ7kNvwEixsXI&_nc_oc=Adruf2sqiFlkGCYftjsGHGZ5a5aeaU0zDtpVI6WVDg9LVKg2lZ7pc-v2hB32ZRpI-Mg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=tLhUPlaTueIQ_eVNAhWWYw&_nc_ss=7c3ba&oh=00_AQOYFGrXCncz0IzEQ0GZDj85DG22DuvW6hQZX3Llqr6bNg&oe=6AE13920",
+    "displayUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/857105929_1466922531978703_3743047391444049058_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=110&ig_cache_key=NDAxMjE0NDQ1ODE1OTYyMjAxOTE0NjY5MjI1Mjg2NDUzNzA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=JQIHuzt3zqgQ7kNvwEixsXI&_nc_oc=Adruf2sqiFlkGCYftjsGHGZ5a5aeaU0zDtpVI6WVDg9LVKg2lZ7pc-v2hB32ZRpI-Mg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=tLhUPlaTueIQ_eVNAhWWYw&_nc_ss=7c3ba&oh=00_AQOYFGrXCncz0IzEQ0GZDj85DG22DuvW6hQZX3Llqr6bNg&oe=6AE13920",
+    "videoUrl": "https://scontent-cdg4-2.cdninstagram.com/o1/v/t2/f2/m86/AQNoLMtG_krsFpdci9HWQ5XfGdmKRaPXYg9OU-ju2b_wKdUGl6MUR7hl0Ujau8mC8Ty_XI2xUOroyaHHJdDcD8I3iENncP8BH3tarec.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ohc=shUf25BjG9QQ7kNvwHvR4h3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ2NjkyMDY1NTMxMjIyNCwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=746872f614f207f7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EQzVFRENGNDc2Mzc0QkFCQUU4Rjc4RUVDOTZGRDk0QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U4NEUxOTUyNzlDNjQ5RUNCMDUzNDcwQkQyMDNDNEVCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA1ZbJgoqbBRUCKAJDMywXQEUAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=tLhUPlaTueIQ_eVNAhWWYw&_nc_ss=7c3ba&_nc_zt=28&oh=00_AQNtd2sRfKZYDELtNjM9UwiAxgXDBZW9psLFfXTW52dIBQ&oe=6ADD4AD9",
+    "videoDurationSeconds": 42,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 20056,
+    "likesHidden": false,
+    "commentsCount": 226,
+    "playsCount": 398646,
+    "viewsCount": null,
+    "sharesCount": 1959,
+    "engagement": 20282,
+    "engagementRate": 0.001567,
+    "engagementWithPlays": 0.050877
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 1.08,
+    "performanceTier": "NORMAL",
+    "isBreakout": false,
+    "signals": [
+      "HIGH_PLAY_VELOCITY"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 51,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "puma",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_summary",
+  "status": "BASELINE_CREATED",
+  "errorMessage": "Baseline saved: 20 known post(s). From the next run only new or changed content is returned.",
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "puma",
+    "userId": "10145706",
+    "profileUrl": "https://www.instagram.com/puma/",
+    "followersCount": 12945092,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "PUMA",
+    "isVerified": true,
+    "followingCount": 156,
+    "postsCount": null,
+    "category": "Clothing (Brand)"
+  },
+  "content": null,
+  "metrics": null,
+  "change": null,
+  "performance": null,
+  "captionAnalysis": null,
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": {
+    "coverage": {
+      "postsScanned": 20,
+      "complete": true,
+      "route": "tikhub",
+      "stopReason": "window and baseline covered"
+    },
+    "newContentCount": 0,
+    "newReelsCount": 0,
+    "newCarouselsCount": 0,
+    "metricUpdatesCount": 0,
+    "deliveredRows": 1,
+    "breakoutCount": 0,
+    "paidPartnershipCount": 0,
+    "collabCount": 1,
+    "recentWindowDays": 10,
+    "recentPostsCount": 1,
+    "avgEngagement": 20282,
+    "medianEngagement": 20282,
+    "avgPlays": 398646,
+    "medianPlays": 398646,
+    "topPost": {
+      "postId": "4012144458159622019",
+      "postUrl": "https://www.instagram.com/reel/DeuACCgKAeD/",
+      "contentType": "REEL",
+      "publishedAt": "2026-10-20T14:04:02.000Z",
+      "engagement": 20282,
+      "performanceIndex": 1.08
+    },
+    "cadence": {
+      "postsLast7Days": 1,
+      "postsLast30Days": 6,
+      "postsPerWeek": 1.4,
+      "reelsPerWeek": 0.93,
+      "daysSinceLastPost": 2.9,
+      "coverageDays": 99.9
+    },
+    "contentMix": {
+      "sampleSize": 20,
+      "imageShare": 0.15,
+      "carouselShare": 0.3,
+      "reelShare": 0.55,
+      "videoShare": 0,
+      "previousReelShare": null
+    },
+    "baselines": {
+      "sampleSize": 20,
+      "medianLikesBaseline": 18718,
+      "medianCommentsBaseline": 212,
+      "medianPlaysBaseline": 290033,
+      "medianEngagementBaseline": 18858
+    },
+    "hashtags": {
+      "topHashtags": [
+        {
+          "tag": "cucurella",
+          "count": 1
+        },
+        {
+          "tag": "football",
+          "count": 1
+        },
+        {
+          "tag": "pumashowtime",
+          "count": 1
+        },
+        {
+          "tag": "pumasuede",
+          "count": 1
+        },
+        {
+          "tag": "spain",
+          "count": 1
+        }
+      ],
+      "hashtagFrequency": [
+        {
+          "tag": "cucurella",
+          "count": 1
+        },
+        {
+          "tag": "football",
+          "count": 1
+        },
+        {
+          "tag": "pumashowtime",
+          "count": 1
+        },
+        {
+          "tag": "pumasuede",
+          "count": 1
+        },
+        {
+          "tag": "spain",
+          "count": 1
+        }
+      ],
+      "newHashtags": [],
+      "droppedHashtags": []
+    },
+    "mentions": {
+      "topMentions": [
+        {
+          "username": "asaprocky",
+          "count": 4
+        },
+        {
+          "username": "puma",
+          "count": 3
+        },
+        {
+          "username": "wnba",
+          "count": 3
+        },
+        {
+          "username": "acmilan",
+          "count": 1
+        },
+        {
+          "username": "cucurella3",
+          "count": 1
+        },
+        {
+          "username": "flaujae",
+          "count": 1
+        },
+        {
+          "username": "giannakneepkens",
+          "count": 1
+        },
+        {
+          "username": "kelz_hoop",
+          "count": 1
+        },
+        {
+          "username": "mancity",
+          "count": 1
+        },
+        {
+          "username": "mondo_duplantis",
+          "count": 1
+        }
+      ],
+      "newMentions": [],
+      "collaborators": [
+        {
+          "username": "pumahoops",
+          "count": 5
+        },
+        {
+          "username": "pumamotorsport",
+          "count": 3
+        },
+        {
+          "username": "mancity",
+          "count": 2
+        },
+        {
+          "username": "pepteam",
+          "count": 2
+        },
+        {
+          "username": "pumarunning",
+          "count": 2
+        },
+        {
+          "username": "pumasportstyle",
+          "count": 2
+        },
+        {
+          "username": "sportsworld",
+          "count": 2
+        },
+        {
+          "username": "acmilan",
+          "count": 1
+        },
+        {
+          "username": "flaujae",
+          "count": 1
+        },
+        {
+          "username": "giannakneepkens",
+          "count": 1
+        }
+      ]
+    },
+    "signals": [],
+    "unavailableContent": [],
+    "counts": {
+      "scanned": 20,
+      "pinnedSkipped": 0,
+      "filteredByContentType": 0,
+      "collabsExcluded": 0,
+      "outsideLookback": 0,
+      "unchanged": 0,
+      "duplicatesInFeed": 0,
+      "incomplete": 0,
+      "notTracked": 0
+    }
+  },
+  "input": "puma",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_content",
+  "status": "SUCCESS",
+  "errorMessage": null,
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "newbalance",
+    "userId": "204654945",
+    "profileUrl": "https://www.instagram.com/newbalance/",
+    "followersCount": 9385676,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "New Balance",
+    "isVerified": true,
+    "followingCount": 572,
+    "postsCount": null,
+    "category": null
+  },
+  "content": {
+    "postId": "4013441511819019738",
+    "shortcode": "Deym8p2x4Xa",
+    "postUrl": "https://www.instagram.com/p/Deym8p2x4Xa/",
+    "contentType": "POST",
+    "caption": "Dad’s Back. November 6th.",
+    "publishedAt": "2026-10-22T08:59:52.000Z",
+    "isReel": false,
+    "isCarousel": false,
+    "isVideo": false,
+    "isPinned": false,
+    "isCollab": true,
+    "collabOwner": "newbalancelifestyle",
+    "coauthors": [
+      "newbalance"
+    ],
+    "visibleOnProfiles": [
+      "newbalance",
+      "newbalancelifestyle"
+    ],
+    "paidPartnership": false,
+    "sponsorName": null,
+    "hashtags": [],
+    "mentions": [],
+    "location": null,
+    "thumbnailUrl": "https://instagram.fbcn2-1.fna.fbcdn.net/v/t51.82787-15/860382479_18573630721076467_5596808423078168003_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMzQ0MTUxMTgxOTAxOTczOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9n_7EAel9nUQ7kNvwH5N5BE&_nc_oc=AdqkTt9qSvMQMPtvOQUt0C3c9EoExqrybok-lU_MOAsw3o-cRqjbM0xG2OPP2RuosUQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn2-1.fna&_nc_gid=UZ4pAGm0oswEwNOwyijM2g&_nc_ss=7c3ba&oh=00_AQMLJ6on4ojiSXlWMSsSRYQQn-bHGd8YmKZJDR16Q06hew&oe=6AE11211",
+    "displayUrl": "https://instagram.fbcn2-1.fna.fbcdn.net/v/t51.82787-15/860382479_18573630721076467_5596808423078168003_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMzQ0MTUxMTgxOTAxOTczOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9n_7EAel9nUQ7kNvwH5N5BE&_nc_oc=AdqkTt9qSvMQMPtvOQUt0C3c9EoExqrybok-lU_MOAsw3o-cRqjbM0xG2OPP2RuosUQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn2-1.fna&_nc_gid=UZ4pAGm0oswEwNOwyijM2g&_nc_ss=7c3ba&oh=00_AQN0746fB_Ja31CpA8U0LYR6hLjG_ez3pVlY4w_IkqLurA&oe=6AE11211",
+    "videoUrl": null,
+    "videoDurationSeconds": null,
+    "carouselItems": []
+  },
+  "metrics": {
+    "likesCount": 16352,
+    "likesHidden": false,
+    "commentsCount": 191,
+    "playsCount": null,
+    "viewsCount": null,
+    "sharesCount": null,
+    "engagement": 16543,
+    "engagementRate": 0.001763,
+    "engagementWithPlays": null
+  },
+  "change": {
+    "changeType": "NEW_CONTENT",
+    "isBaseline": true,
+    "firstSeenAt": "2026-10-23T12:28:04.457Z",
+    "previousSeenAt": null,
+    "hoursSincePreviousSeen": null,
+    "likesDelta": null,
+    "commentsDelta": null,
+    "playsDelta": null,
+    "viewsDelta": null,
+    "likesGrowthPct": null,
+    "commentsGrowthPct": null,
+    "playsGrowthPct": null,
+    "likesPerHourSinceLastCheck": null,
+    "commentsPerHourSinceLastCheck": null,
+    "playsPerHourSinceLastCheck": null
+  },
+  "performance": {
+    "performanceIndex": 1.5,
+    "performanceTier": "STRONG",
+    "isBreakout": false,
+    "signals": [
+      "HIGH_ENGAGEMENT_VS_BASELINE"
+    ],
+    "baselineSampleSize": 20
+  },
+  "captionAnalysis": {
+    "captionLength": 25,
+    "hasQuestion": false,
+    "hasCTA": false,
+    "hashtagCount": 0,
+    "mentionCount": 0,
+    "emojiCount": 0
+  },
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": null,
+  "input": "newbalance",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+},
+{
+  "rowType": "competitor_summary",
+  "status": "BASELINE_CREATED",
+  "errorMessage": "Baseline saved: 21 known post(s). From the next run only new or changed content is returned.",
+  "monitorKey": "readme-demo-2",
+  "competitor": {
+    "username": "newbalance",
+    "userId": "204654945",
+    "profileUrl": "https://www.instagram.com/newbalance/",
+    "followersCount": 9385676,
+    "followerDeltaSincePreviousMonitorRun": null,
+    "fullName": "New Balance",
+    "isVerified": true,
+    "followingCount": 572,
+    "postsCount": null,
+    "category": null
+  },
+  "content": null,
+  "metrics": null,
+  "change": null,
+  "performance": null,
+  "captionAnalysis": null,
+  "alertTriggered": false,
+  "alertReasons": [],
+  "summary": {
+    "coverage": {
+      "postsScanned": 21,
+      "complete": true,
+      "route": "tikhub",
+      "stopReason": "window and baseline covered"
+    },
+    "newContentCount": 0,
+    "newReelsCount": 0,
+    "newCarouselsCount": 0,
+    "metricUpdatesCount": 0,
+    "deliveredRows": 1,
+    "breakoutCount": 0,
+    "paidPartnershipCount": 0,
+    "collabCount": 1,
+    "recentWindowDays": 10,
+    "recentPostsCount": 1,
+    "avgEngagement": 16543,
+    "medianEngagement": 16543,
+    "avgPlays": null,
+    "medianPlays": null,
+    "topPost": {
+      "postId": "4013441511819019738",
+      "postUrl": "https://www.instagram.com/p/Deym8p2x4Xa/",
+      "contentType": "POST",
+      "publishedAt": "2026-10-22T08:59:52.000Z",
+      "engagement": 16543,
+      "performanceIndex": 1.5
+    },
+    "cadence": {
+      "postsLast7Days": 1,
+      "postsLast30Days": 9,
+      "postsPerWeek": 2.1,
+      "reelsPerWeek": 1.4,
+      "daysSinceLastPost": 1.1,
+      "coverageDays": 63.8
+    },
+    "contentMix": {
+      "sampleSize": 20,
+      "imageShare": 0.3,
+      "carouselShare": 0.05,
+      "reelShare": 0.65,
+      "videoShare": 0,
+      "previousReelShare": null
+    },
+    "baselines": {
+      "sampleSize": 20,
+      "medianLikesBaseline": 10897,
+      "medianCommentsBaseline": 201.5,
+      "medianPlaysBaseline": 2354691,
+      "medianEngagementBaseline": 11018.5
+    },
+    "hashtags": {
+      "topHashtags": [
+        {
+          "tag": "fc27",
+          "count": 1
+        }
+      ],
+      "hashtagFrequency": [
+        {
+          "tag": "fc27",
+          "count": 1
+        }
+      ],
+      "newHashtags": [],
+      "droppedHashtags": []
+    },
+    "mentions": {
+      "topMentions": [
+        {
+          "username": "ayoedebiri",
+          "count": 3
+        },
+        {
+          "username": "cocogauff",
+          "count": 2
+        },
+        {
+          "username": "joshallenqb",
+          "count": 2
+        },
+        {
+          "username": "joefreshgoods",
+          "count": 1
+        },
+        {
+          "username": "madeatartcamp",
+          "count": 1
+        },
+        {
+          "username": "newbalance",
+          "count": 1
+        },
+        {
+          "username": "petecrowarmstrong",
+          "count": 1
+        },
+        {
+          "username": "shoheiohtani",
+          "count": 1
+        },
+        {
+          "username": "sydneylevrone",
+          "count": 1
+        }
+      ],
+      "newMentions": [],
+      "collaborators": [
+        {
+          "username": "newbalancebaseball",
+          "count": 5
+        },
+        {
+          "username": "newbalancelifestyle",
+          "count": 4
+        },
+        {
+          "username": "newbalancebasketball",
+          "count": 3
+        },
+        {
+          "username": "newbalancegridiron",
+          "count": 2
+        },
+        {
+          "username": "newbalancerunning",
+          "count": 2
+        },
+        {
+          "username": "9tseven_",
+          "count": 1
+        },
+        {
+          "username": "ayoedebiri",
+          "count": 1
+        },
+        {
+          "username": "brattlebookshop",
+          "count": 1
+        },
+        {
+          "username": "cocogauff",
+          "count": 1
+        },
+        {
+          "username": "cooper_flagg",
+          "count": 1
+        }
+      ]
+    },
+    "signals": [
+      "POSTING_FREQUENCY_DECREASED"
+    ],
+    "unavailableContent": [],
+    "counts": {
+      "scanned": 21,
+      "pinnedSkipped": 1,
+      "filteredByContentType": 0,
+      "collabsExcluded": 0,
+      "outsideLookback": 0,
+      "unchanged": 0,
+      "duplicatesInFeed": 0,
+      "incomplete": 0,
+      "notTracked": 0
+    }
+  },
+  "input": "newbalance",
+  "scrapedAt": "2026-10-23T12:28:04.457Z"
+}]
